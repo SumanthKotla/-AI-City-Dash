@@ -98,12 +98,6 @@ Everything lives in one file, making it easy to hack on:
 
 ---
 
-## 📸 Screenshots
-
-> *(Add your own screenshots here — title screen, gameplay, and win screen make great previews)*
-
----
-
 ## 📄 License
 
 MIT — do whatever you want with it. Just don't let the robots win. 🤖
